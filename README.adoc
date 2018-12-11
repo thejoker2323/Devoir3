@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/oliviercailloux-org/ci-thejoker2323.svg?token=hcbKYVpEaez5Aj6Tpnts&branch=master)](https://travis-ci.com/oliviercailloux-org/ci-thejoker2323)
